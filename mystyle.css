@@ -1,0 +1,51 @@
+/*specifies the colour of the body background where the <body> tag has been applied*/
+body {
+    background-color: lightblue;
+}
+
+/*specifies the colour and alignment of <h1> headings*/
+h1 {
+    color: red;
+    text-align: center;
+}
+
+/*specifies the style of <h4> headings*/
+h4{
+	font-style: italic;
+}
+
+/*specifies the font family and size for paragraphs <p>*/
+p {
+    font-family: verdana;
+    font-size: 18px;
+}
+
+/*specifies the font family and size for all list elements*/
+ol, ul, li{
+	font-family: verdana;
+	font-size:18px;
+}
+
+/*specifies the background colour, font colour and padding for DIV elements*/
+div
+{
+	background-color:black;
+	color:white;
+	padding:20px;"
+}
+
+/*specifies the font colour where id="para1" has been applied*/
+#para1 {
+        color: darkgreen;
+}
+
+/*specifies the text alignment and colour where class="align" has been applied, for <p> elements only*/
+p.align {
+    text-align: left;
+    color: darkblue;
+}
+
+/*specifies the text alignment where class="center" has been applied, for all elements*/
+.center{
+	text-align: center;
+}
